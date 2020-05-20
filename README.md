@@ -9,6 +9,8 @@ Descripción: Rediseño de la web de erranT.
 
 Logotipo:
 
+![Método UX](contenidos/logo.png)
+
 ----- 
 
 # Proceso de Diseño 
