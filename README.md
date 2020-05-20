@@ -104,10 +104,12 @@ Original
 Propuesta
 ![Método UX](contenidos/titulo_logo_nuevo.png)
 
-Además de lo indicado hasta ahora tambien combendría tener una versión reducida del logotipo pues el actual es ilegible cuando se utiliza en pequeño como se puede apreciar en el icono de la ventana de la página en el navegador y pierde todo su sentido, debido a esto también propongo una version del logotipo facilmente identificable en tamaños pequeños:
+Además de lo indicado hasta ahora también convendría tener una versión reducida del logotipo pues el actual es ilegible cuando se utiliza en pequeño como se puede apreciar en el icono de la ventana de la página en el navegador y pierde todo su sentido, debido a esto también propongo una versión del logotipo fácilmente identificable en tamaños pequeños:
 
 Original
+
 ![Método UX](contenidos/logo.jpg)
 
 Propuesta para tamaños pequeños
+
 ![Método UX](contenidos/logotipo_nuevo.png)
