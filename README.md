@@ -88,3 +88,11 @@ La Pecera Comunicación: Se presenta al equipo que administra este servicio.
 2.d Bocetos
 -----
 
+Una de las propuestas mencionadas anteriormente consistía en que las tarifas tubieran un solo botón de reserva pera evitar confusión, a continuación se muestra el estado actual de la página en este punto y un boceto simplificado de como podría adaptarse:
+
+Original
+![Método UX](contenidos/original_tarifas.png)
+
+Estructura Propuesta
+![Método UX](contenidos/boceto_tarifas.png)
+
