@@ -73,3 +73,18 @@ Dado que este punto ya está desarrollado, no voy a ampliarlo más, mis propuest
 2.c Sitemap
 -----
 
+A continuación se encuentra el Sitemap de erranT, no ha sido modificado pero es bueno tenerlo presente y por eso lo incluyo.
+
+Los cuadros son las secciones de este sitio web, y los óvalos son trozos de una página que estan presentes en varios lugares distintos, por ejemplo el menú está presente en todas las páginas de este sitio web y mediante flechas de puntos se indican que páginas del sitio están incorporadas en el menú, todas las páginas incluidas en el menú seran accedidas desde cualquier otra página. En cuanto al formulario de contacto se indica mediante flechas de puntos que páginas lo incluyen, generalmente al final de la página. Las flechas completas son enlaces normales de una página a otra.
+
+![Método UX](contenidos/Sitemap.png)
+
+Entre las páginas mostradas en el mapa anterior las que puede que sean más dificiles de comprender su función solo por el nombre serían:
+
+Coworkers: Presenta visualmente a los usuarios del servicio de coworking con los que podrás relacionarte si te unes.
+
+La Pecera Comunicación: Se presenta al equipo que administra este servicio.
+
+2.d Bocetos
+-----
+
