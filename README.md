@@ -31,4 +31,24 @@ En resumen he seleccionado erranT porque ademas de su servicio principal de cowo
 1.b Persona
 -----
 
+En este caso he reutilizado una persona que cree un una ocasion anterior, Clara, ya que representa a un sector de la población a la que puede interesarle este servicio, aunque ajustado la situacion en la que se encuentra para que pueda aprobecharlo, asi se podrá comprobar la efectividad de esta web con uno de sus target.
+![Método UX](contenidos/Persona_Clara.png)
+
+1.c User Journey Map
+-----
+
+Este escenario comprueba el funcionamiento de la página con una persona que se encuentra dentro de su público objetivo, algo necesario pues sería una página inutil si no pudiera satisfacer al público al que se dirige.
+![Método UX](contenidos/Experiencia%20de%20Clara.png)
+
+1.d Usability Review
+-----
+
+- Revisión de usabilidad completa: https://github.com/JoseMR6/ExamenDIU/blob/master/contenidos/usabilidad.xls
+
+- Valoración final: 94 / 100
+
+Una página web excelente que solo necesita arreglar algunos apartados tecnicos relacionados con su código interno y mejorar la redireccion de algunos botones.
+
+
+## Paso 2. UX Design 
 
