@@ -96,3 +96,11 @@ Original
 Estructura Propuesta
 ![Método UX](contenidos/boceto_tarifas.png)
 
+Tambien he pensado en incluir algunas pequeñas modificaciones visuales como aprobechar el color rojo que se usa en toda la página web como un color representativo tambien en el título como se muestra a continuación:
+
+Original
+![Método UX](contenidos/titulo_logo.png)
+
+Propuesta
+![Método UX](contenidos/titulo_logo_nuevo.png)
+
