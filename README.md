@@ -49,6 +49,27 @@ Este escenario comprueba el funcionamiento de la página con una persona que se 
 
 Una página web excelente que solo necesita arreglar algunos apartados tecnicos relacionados con su código interno y mejorar la redireccion de algunos botones.
 
+1.e Planteamiento del problema
+-----
+
+El único problema destacable es que hay que arreglar algunas partes del código interno de la página y que la estructura de la misma es algo caótica debido a varios botones que deberían replantear su direccionamiento.
+
 
 ## Paso 2. UX Design 
+
+2.a Feedback Capture Grid
+-----
+
+En esta sección utilizo una malla modificada para resumir los puntos fuertes y débiles de la página, y mis propuestas de mejora.
+![Método UX](contenidos/malla.png)
+
+2.b Propuesta de valor
+-----
+
+En base a lo observado esta página a sido contruida en base a "Encuentra un lugar donde ser productivo y amplia tus contactos", debido a que le da mucha importancia las otras personas con las que podrás relacionarte.
+
+Dado que este punto ya está desarrollado, no voy a ampliarlo más, mis propuestas se basan en arreglar errores y actualizar un poco la presentación y estructura.
+
+2.b Sitemap
+-----
 
