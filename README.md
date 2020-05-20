@@ -70,6 +70,6 @@ En base a lo observado esta página a sido contruida en base a "Encuentra un lug
 
 Dado que este punto ya está desarrollado, no voy a ampliarlo más, mis propuestas se basan en arreglar errores y actualizar un poco la presentación y estructura.
 
-2.b Sitemap
+2.c Sitemap
 -----
 
